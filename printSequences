@@ -1,0 +1,6 @@
+intd <- c(1:10)
+(intd)
+intodd<- seq(1,99,by=2)
+(intodd)
+intevn<- seq(2,100,by=2)
+(intevn)
