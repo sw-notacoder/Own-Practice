@@ -1,0 +1,7 @@
+name<- "Swastik"
+surname<- "Banerjee"
+full_name <- c(name,surname)
+(full_name)
+full_name_repeat<- rep(full_name,3)
+seq_rep<-rep(seq(1,15, by=2),3)
+(seq_rep)
