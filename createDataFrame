@@ -1,0 +1,5 @@
+name<- c("Vikas", "Karthik", "Bhola")
+age<- c(23,25,23)
+desig <- c("Student", "Student", "Student")
+student_dataframe <- data.frame(name,age,desig)
+(student_dataframe)
